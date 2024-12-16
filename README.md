@@ -16,10 +16,10 @@ Este projeto tem como objetivo recriar a icônica cena do Vale do Fim, do anime 
 
 ## Tecnologias Utilizadas
 
-A-Frame VR: Biblioteca para criação de experiências de realidade virtual.
+* A-Frame VR: Biblioteca para criação de experiências de realidade virtual.
 
-HTML/CSS: Para a estrutura e personalização visual da cena.
+* HTML/CSS: Para a estrutura e personalização visual da cena.
 
-JavaScript: Para interações e animação da cachoeira.
+* JavaScript: Para interações e animação da cachoeira.
   
 
